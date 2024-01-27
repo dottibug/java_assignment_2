@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54058d81-6874-4e5c-bea5-8753bd4e70e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CylinderCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PasswordGenerator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,12 +35,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.CylinderCalculator.executor": "Run",
+    "Application.PasswordGenerator.executor": "Run",
     "Application.TriangleArea.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/tanyawoodside/Desktop/TRU/Term 1/COMP 1131/Assignment 2/TriangleArea",
+    "last_opened_file_path": "/Users/tanyawoodside/Desktop/TRU/Term 1/COMP 1131/Assignment 2/Assignment_2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -49,21 +50,6 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="Assignment_2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Assignment_2" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -81,6 +67,7 @@
       <updated>1706315605493</updated>
       <workItem from="1706315606524" duration="2162000" />
       <workItem from="1706317848946" duration="4040000" />
+      <workItem from="1706322173723" duration="2503000" />
     </task>
     <servers />
   </component>
