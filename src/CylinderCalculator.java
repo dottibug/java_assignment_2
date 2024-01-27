@@ -21,10 +21,8 @@ public class CylinderCalculator {
         System.out.print("Height: ");
         double height = scan.nextDouble();
 
-        // Calculate volume
-        double volume = Math.PI * (Math.pow(radius, 2)) * height;
-
-        // Calculate surface area
+        // Calculate volume and surface area
+        double volume = Math.PI * Math.pow(radius, 2) * height;
         double surfaceArea = 2 * Math.PI * radius * (height + radius);
 
         // Format results

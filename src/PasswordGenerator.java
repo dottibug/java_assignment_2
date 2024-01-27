@@ -42,7 +42,7 @@ public class PasswordGenerator {
                 firstNameInitial + num1 + num2 + lastNameInitial + num3 + num4 + num5;
 
         // Display results
-        System.out.println("Password " + password);
+        System.out.println("Password: " + password);
     }
 
 }
